@@ -1,0 +1,1094 @@
+
+h1, h2, h3, h4, h5, text-playfair {
+    font-family: "Playfair Display",serif;
+}
+
+p {
+	font-family: "Montserrat",sans-serif;
+}
+
+.links:hover {
+  text-decoration: none;
+  font-weight: 700;
+  color: #c9a863;
+}
+
+.sombra {
+  text-shadow: 1.5px 1.5px 2px #000;
+}
+
+.text-black {
+  color: black;
+}
+
+.text-white-bold {
+	color: white;
+	font-size: .9rem;
+	opacity: .9;
+	font-weight: 700;
+
+}
+
+.dropdown-menu {
+  background: transparent !important;
+  padding-top: 0;
+}
+
+.dropdown-menu1 {
+  background: #c9a863 !important;
+  padding-top: 0;
+}
+
+.text-white-bold:hover {
+	opacity: 1;
+  text-decoration: none;
+  color: white;
+
+}
+
+.text-white {
+	color: white;
+}
+
+.text-gold {
+    color:#c9a863;
+}
+
+.text-gold-bold {
+    color:#c9a863;
+    font-weight: 700;
+}
+
+.subtitle {
+    font-size: 2rem;
+}
+
+.btn-primary {
+    background-color: #d0b376;
+    border-color: #c9a863;
+    color: #FFFFFF;
+    text-transform:uppercase;
+    font-weight:300;
+    border-radius:2px;
+    padding: 0.7rem 1rem;
+    transition: .3s; 
+}
+
+.btn-primary:hover {
+    background-color: #c39e50;
+    border-color: #b28c3d;
+}
+
+.main-transparency {
+    background-color: rgba(0, 0, 0, 0.15);
+    height:100%;
+}
+
+.blue-transparency {
+    background-color: rgba(10, 44, 90, 0.68);
+    height:100%;
+}
+
+.box-shadow {
+  box-shadow: 0px 15px 50px 0px rgba(128, 98, 36, 0.4);
+}
+
+.contactanos-yextho-logo-principal {
+	width: 10rem;
+}
+
+.gold-line {
+    height: 5px;
+    background-color: #c39e50;
+
+}
+
+#yextho-index-sec1-homview-container {
+	background-image: url(../img/banner-principal.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	height:100vh;
+}
+
+#yextho-instalaciones-sec1-homview-container {
+  background-image: url(../img/banner-insta.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height:100vh;
+}
+#yextho-contactanos-sec1-homview-container {
+  background: #003663;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height:40vh;
+}
+
+
+#yextho-hc-sec1-homview-container {
+  background-image: url(../img/banner-hc.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height:100vh;
+}
+#yextho-hc-nav-phone-container {
+   background-image: url(../img/banner-hc.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:100vh;
+}
+
+
+#yextho-index-sec1-terreno-container {
+  background-image: url(../img/fondo-terreno.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height:100vh;
+}
+
+
+.yextho-index-sec1-icons {
+	color: white;
+	font-size: .99rem;
+	padding: 0.4rem;
+	opacity: .8;
+}
+
+.yextho-index-sec1-icons:hover {
+	opacity: 1;
+	text-decoration: none;
+	color: white;
+}
+
+#yextho-index-nav-phone-container {
+  background-image: url(../img/banner-principal2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: auto;
+}
+#yextho-terreno-nav-phone-container {
+   background-image: url(../img/banner-terreno2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: auto;
+}
+#yextho-cc-nav-phone-container {
+   background-image: url(../img/banner-cc2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: auto;
+}
+#yextho-hotel-nuevo-nav-phone-container {
+ background-image: url(../img/banner-hn.jpg);
+ background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: auto;
+}
+
+.yextho-index-sec1-phone {
+	color: white;
+    font-family: "Montserrat",serif;
+	font-size: .9rem;
+	opacity: .9;
+}
+
+.yextho-index-sec1-pages1 {
+	color: white;
+    font-family: "Montserrat",serif;
+	font-size: 1.1rem;
+	opacity: .9;
+
+}
+
+.yextho-index-sec1-pages1:hover {
+	opacity: 1;
+	text-decoration: none;
+	color: white;
+}
+
+.icon-angle-down {
+ transition: all .1s ease-in-out;
+}
+
+.dropdown1:hover .icon-angle-down {
+
+transform: translate( 0, 5px);
+}
+
+.yextho-index-sec1-phone:hover {
+	opacity: 1;
+	text-decoration: none;
+	color: white;
+}
+
+.yextho-index-sec1-pages {
+	color: white;
+	/*font-family: 'PT Sans Narrow', sans-serif;*/
+	font-size: 1.1rem;
+	opacity: .9;
+}
+
+.yextho-index-sec1-pages:hover {
+	color: white;
+	opacity: 1;
+	text-decoration: none;
+}
+
+.yextho-index-sec1-title {
+	color: white;
+	text-shadow: 1.5px 1.5px 2px #000;
+	font-size: 2.45rem;
+
+
+}
+
+.yextho-index-sec1-title1 {
+	color: white;
+	text-shadow: 1.5px 1.5px 2px #000;
+	font-size: 1.3rem;
+
+}
+
+#yextho-index-sec1-col-title {
+	padding-top: 5rem;
+}
+
+
+
+.dropdown1 {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+
+
+}
+
+.dropdown-link1 {
+    transition: .2s;
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+
+.dropdown-link1:hover {
+  background-color: #466281;
+  color: white;
+  opacity: 1;
+
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: transparent;
+    min-width: 13rem;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 5px;
+    left: 80px;
+
+}
+
+
+
+.dropdown-content a {
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    text-decoration: none;
+    display: block;
+    padding-left: 0.5rem;
+     /*font-family: 'PT Sans Narrow', sans-serif;*/
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 700;
+    opacity: .9;
+
+}
+
+
+.dropdown1:hover .dropdown-content {
+    display: block;
+
+}
+
+.yextho-index-sec2-title {
+	 /*font-family: 'PT Sans Narrow', sans-serif;*/
+     color: #806100;
+     font-weight: 700;
+}
+
+.yextho-index-sec2-parrafo {
+
+}
+
+
+.btn1 {
+	background-color: #00486c;
+	padding: 0.5rem 1rem;
+	color: white;
+	/*font-family: 'PT Sans Narrow', sans-serif;*/
+	letter-spacing: 1px;
+	opacity: .8;
+	border: 2px solid white;
+	border-radius: 8px;
+    -webkit-box-shadow: 1px 1px 12px -1px rgba(107,107,107,1);
+    -moz-box-shadow: 1px 1px 12px -1px rgba(107,107,107,1);
+    box-shadow: 1px 1px 12px -1px rgba(107,107,107,1);
+}
+
+.btn1:hover {
+	opacity: 1;
+	text-decoration: none;
+	color: white;
+
+}
+.btn-container {
+	margin-top: 2rem;
+
+}
+
+.yextho-index-sec2-ofrecemos-h3 {
+	/*font-family: 'PT Sans Narrow', sans-serif;*/
+	font-size: 2rem;
+}
+
+.yextho-index-sec2-ofrecemos-parrafo {
+	font-size: .9rem;
+}
+
+#yextho-index-sec2-ofrecemos-container {
+	padding-top: 5%;
+	padding-bottom: 15%;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+50,00486c+50 */
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top, #ffffff 50%, #00486c 50%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ffffff 50%,#00486c 50%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ffffff 50%,#00486c 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00486c',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+.yextho-index-sec2-ofrecemos-textcontainer {
+   transition: all .2s ease-in-out;
+   background-color: white;
+   margin-top: -50px;
+   position: relative;
+   height: 7rem;
+
+}
+
+#yextho-index-sec2-ofrecemos-col:hover .yextho-index-sec2-ofrecemos-textcontainer{
+  transform: translate( 0, 50px);
+}
+
+.yextho-index-sec2-ofrecemos-title {
+	background-color: #55B3E4;
+	color: white;
+	margin-top: -3rem;
+	padding: 2rem 1rem;
+	display: inline-block;
+	border-radius: 50%;
+}
+
+.yextho-index-sec2-ofrecemos-subtitle {
+	/*font-family: 'PT Sans Narrow', sans-serif;*/
+}
+
+.yextho-index-sec2-ofrecemos-box {
+    border-radius:10px;
+}
+
+#yextho-index-sec4-mapa-container {
+	background-image: url(../img/fondo-ubicanos.jpg);
+	background-attachment: fixed;
+    background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.yextho-index-sec4-title {
+	color: white;
+	/*font-family: 'PT Sans Narrow', sans-serif;*/
+	font-weight: 700;
+	font-size: 3rem;
+	text-transform: uppercase;
+
+}
+
+.yextho-index-sec4-parrafo {
+  /*font-family: 'roboto', sans-serif;*/
+  color: white;
+}
+
+#yextho-index-sec5-footer-container {
+	padding-top: 4%;
+	padding-bottom: 4%;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#005a89+0,00267a+100 */
+  background: #005a89; /* Old browsers */
+  background: -moz-linear-gradient(top, #005a89 0%, #00267a 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #005a89 0%,#00267a 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #005a89 0%,#00267a 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#005a89', endColorstr='#00267a',GradientType=0 ); /* IE6-9 */
+
+}
+
+.yextho-index-sec5-footer-title {
+	font-family: "Playfair Display",serif;
+	color: white;
+}
+
+.yextho-index-sec5-footer-img {
+ width: 14rem;
+}
+
+.footer-icon-google {
+	font-size: 1.8rem;
+	color: #fff;
+
+}
+
+.footer-icon-facebook {
+color: white;
+font-size: 1.8rem; }
+
+
+
+
+
+.footer-icon-twitter {
+	color: white;
+	font-size: 1.8rem; }
+
+.footer-icon-instagram {
+
+  color: #fff;
+  font-size: 1.8rem;
+}
+
+.yextho-index-sec2-text-col1 {
+	background-color: white;
+}
+
+#yextho-index-sec2-container {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+#yextho-index-sec3-container {
+	padding-top: 5%;
+}
+
+.yextho-index-sec2-parrafo {
+	font-size: .9rem;
+
+}
+
+.yextho-index-sec2-parrafo0 {
+  font-size: 1.7rem;
+
+}
+
+.yextho-index-sec2-parrafo1 {
+	font-size: 2rem;
+	padding-top: 1rem;
+	font-weight: 300;
+
+
+}
+
+.yextho-index-sec2-parrafo2 {
+	font-size: .9rem;
+	padding-bottom: 4%;
+}
+
+.yextho-index-sec2-parrafo3 {
+	font-weight: 300;
+	font-size: 2rem;
+
+}
+
+
+
+
+.yextho-index-casa-cblub-container {
+  position: relative;
+  background-color: #005a89;
+  transition: 1s;
+  overflow: hidden;
+}
+
+.yextho-index-casa-cblub-container {
+	-moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 4s;
+}
+
+.yextho-index-casa-cblub-image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  background-color: #005a89;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 3s;
+}
+
+.yextho-index-casa-cblub-container:hover  img{
+	-moz-transform: scale(1.8);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.8);
+}
+
+
+.yextho-index-casa-cblub-middle a {
+  transition: .5s ease;
+  position: absolute;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+.yextho-index-casa-cblub-container:hover .yextho-index-casa-cblub-image {
+  opacity: 0.1;
+}
+
+.yextho-index-casa-cblub-container:hover .yextho-index-casa-cblub-middle a {
+  opacity: 1;
+  transform: translate(0, -300%);
+  text-decoration: none;
+}
+
+.yextho-index-casa-cblub-text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+
+
+.yextho-index-casa-terreno-container {
+  background-color: #005a89;
+  transition: 1s;
+  overflow: hidden;
+}
+
+.yextho-index-casa-terreno-container {
+	-moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 4s;
+}
+
+.yextho-index-casa-terreno-image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  background-color: #005a89;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 3s;
+}
+
+.yextho-index-casa-terreno-container:hover  img{
+	-moz-transform: scale(1.8);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.8);
+}
+
+
+.yextho-index-casa-terreno-middle a{
+  transition: .5s ease; 
+  text-align: center;
+  position: absolute;
+  top: 80%;
+}
+
+.yextho-index-casa-terreno-container:hover .yextho-index-casa-terreno-image {
+  opacity: 0.1;
+}
+
+.yextho-index-casa-terreno-container:hover .yextho-index-casa-terreno-middle a{
+  opacity: 1;
+    transform: translate(0, -300%);
+    text-decoration: none;
+}
+
+
+#yextho-terrenos-list-item-container {
+  padding-bottom: 4%;
+  padding-top: 4%;
+}
+
+.yextho-terrenos-list-item-icons {
+  background: linear-gradient(to bottom, #005a89 0%,#00267a 100%);
+  padding: 2rem;
+  color: white;
+  border-radius: 50%; 
+  transition: .2s;
+  font-size: 2.5rem;
+}
+
+.yextho-terrenos-list-item-icons1 {
+   background: linear-gradient(to bottom, #005a89 0%,#00267a 100%);
+  padding: 2.2rem;
+  color: white;
+  border-radius: 50%; 
+  transition: .2s;
+  font-size: 2.5rem;
+}
+
+.yextho-terrenos-list-item-icons2 {
+   background: linear-gradient(to bottom, #005a89 0%,#00267a 100%);
+  padding: 2.4rem;
+  color: white;
+  border-radius: 50%; 
+  transition: .2s;
+  font-size: 2.5rem;
+}
+
+.yextho-terrenos-list-item-parrafo {
+  font-family: "Montserrat",sans-serif;
+  font-size: .8rem;
+  padding-top: 1.5rem;
+}
+
+
+#yextho-terreno-galeria-container {
+    padding-bottom: 4%;
+    padding-top: 4%;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: black;
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  width: 90%;
+  max-width: 1200px;
+}
+
+/* The Close Button */
+.close {
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Hide the slides by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.angle {
+  color: white;
+  font-size: 1.8rem;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: #c9a863;
+}
+
+/* Number text (1/3 etc) */
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Caption text */
+
+.caption-container {
+  text-align: center;
+  background-color: black;
+  padding: 2px 16px;
+  color: white;
+}
+
+.demo img {
+  opacity: 0.6;
+}
+
+#demo-row {
+  background-color: black;
+}
+
+.active,
+.demo:hover img{
+  opacity: 1;
+}
+
+img.hover-shadow {
+  transition: 0.3s;
+}
+
+.hover-shadow:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+/*expand col on hover */
+
+
+.wrap {
+  display: flex;
+}
+
+.wrap-col {
+  width: 50%;
+  height: 50vh;
+  transition: .3s;
+  background: black;
+}
+
+.wrap-col:hover {
+  width:100%;
+  height: 50vh;
+
+}
+
+.wrap-col:hover .wrap-h2{
+  opacity: 1;
+
+}
+.wrap-col:hover .wrap-parrafo{
+  opacity: 1;
+
+}
+
+.wrap-col2 {
+  height: 50vh;
+  transition: .3s;
+  background: black;
+}
+
+.text-container {
+  background-color: rgba(0, 90, 137, 0.5);
+  opacity: 0;
+  padding: 3.5REM;
+  height: 100%;
+}
+
+.wrap-col:hover .text-container{
+  opacity: 1;
+
+}
+
+.wrap-h2 {
+  opacity: 0;
+  transition: .3s;
+  
+}
+
+.wrap-parrafo {
+  opacity: 0;
+  transition: 1s;
+
+}
+
+#wrap-col-1 {
+  background-image: url(../img/club-hipico.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#wrap-col-2 {
+  background-image: url(../img/eventos.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#wrap-col-3 {
+  background-image: url(../img/hotel.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#wrap-col-4 {
+  background-image: url(../img/casa-club.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#wrap-col-5 {
+  background-image: url(../img/instalaciones.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#yextho-index-sec1-cc-container {
+  background-image: url(../img/banner-cc.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height:100vh;
+  background-position: center;
+}
+
+#yextho-index-sec2-cc-container {
+  padding-top: 3%;
+}
+
+#yextho-index-cc-row {
+  margin-top: -1.5rem;
+}
+
+
+#yextho-hn-sec1-homview-container {
+  background-image: url(../img/banner-hn.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height:100vh;
+
+}
+
+#yextho-instalaciones-sec2-container {
+padding-bottom: 5%;
+padding-top: 5%;
+  background-color: white;
+
+}
+
+#yextho-instalaciones-sec3-container {
+   padding-top: 3%;
+   padding-bottom: 3%;
+   background: linear-gradient(to bottom, #00267a 0%,#005a89 100%);
+
+}
+
+#yextho-contacto-container {
+  background-image: url(../img/banner-contacto.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+
+#yextho-contacto-col {
+  background-color: rgba(0, 54, 99, 0.4);
+  padding: 2rem;
+}
+
+.index-yextho-logo-contacto {
+  width: 9rem;
+}
+
+.imput-contacto {
+  width: 80%;
+}
+
+#yextho-instalaciones-sec3-container1 {
+    padding-top: 5%;
+   padding-bottom: 6%;
+    background: linear-gradient(to bottom, #00267a 0%,#005a89 100%);
+   margin-top: 5%;
+}
+
+.menu-casa-club-parrafo-phone {
+  background-color: #003663;
+  padding: .4rem;
+  font-size: .5rem;
+  width: 33%;
+}
+.menu-casa-club-phone1 a{
+  border: 1px solid white;
+}
+
+.menu-casa-club-phone2 a{
+  font-size: .5rem;
+  background-color: #003663;
+  padding: .4rem;
+  border: 1px solid white;
+  
+}
+.menu-casa-club-phone3 a{
+  font-size: .5rem;
+  background-color: #003663;
+  padding: .4rem;
+  border: 1px solid white;
+  padding-right: 3.5rem;
+}
+.menu-casa-club-phone4 a{
+  font-size: .5rem;
+  background-color: #003663;
+  padding: .4rem;
+  border: 1px solid white;
+  padding-right: 3.45rem;
+}
+.menu-casa-club-phone5 a{
+  font-size: .5rem;
+  background-color: #003663;
+  padding: .4rem;
+  border: 1px solid white;
+  padding-right: 4.45rem;
+}
+.menu-casa-club-phone6 a{
+  font-size: .5rem;
+  background-color: #003663;
+  padding: .4rem;
+  border: 1px solid white;
+  padding-right: 4.6rem;
+}
+
+.parrafo-contactanos-info1 {
+  font-size: 1rem;
+}
+.parrafo-contactanos-info {
+  font-size: .8rem;
+
+}
+
+.icono-contactanos-info {
+  padding: 2rem;
+  background-color: #c9a863;
+  border-radius: 50%;
+  position: relative;
+}
+
+.icono-contactanos-info1 {
+
+  padding: 2rem;
+  background-color: #c9a863;
+  border-radius: 50%;
+  position: relative;
+}
+
+.icono-contactanos-info2 {
+
+  padding: 2rem 2.18rem;
+  background-color: #c9a863;
+  border-radius: 50%;
+  position: relative;
+}
+
+.icono-contactanos-info2:after {
+  content: "";
+  position: absolute;
+  top: -8px;
+    left: -7px;
+    right: -7px;
+    bottom: -8px;
+  border: 8px solid  #c9a863;
+  border-radius: 50%;
+  z-index: 1;
+  opacity: 0.6;  }
+
+  .icono-contactanos-info1:after {
+  content: "";
+  position: absolute;
+  top: -8px;
+    left: -7px;
+    right: -7px;
+    bottom: -8px;
+  border: 8px solid  #c9a863;
+  border-radius: 50%;
+  z-index: 1;
+  opacity: 0.6;   }
+
+    .icono-contactanos-info:after {
+  content: "";
+  position: absolute;
+  top: -8px;
+    left: -7px;
+    right: -7px;
+    bottom: -8px;
+  border: 8px solid  #c9a863;
+  border-radius: 50%;
+  z-index: 1;
+  opacity: 0.6;   }
+
+  .yextho-phone-navbar {
+  	background-color: rgba(10, 44, 90, 0.68);
+  	background-position: center;
+  	background-size: cover;
+  	width: 17rem;
+
+  }
+
+  #yextho-phone-navbar-container {
+  	width: 17rem;
+  	
+  }
